@@ -12,7 +12,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: cluster0.xe5h1i6.mongodb.net
       MONGODB_USERNAME: vukma
       MONGODB_PASSWORD: vZjZ2bznEPZZyAvi
-      PORT: 8080
+      PORT: 3000
     runs-on: windows-latest
     steps:
       - name: Get Code
